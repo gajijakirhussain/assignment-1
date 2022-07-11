@@ -1,0 +1,307 @@
+body {
+    font-family: 'Merriweather', serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header-section {
+    background-image: url(images/donation0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header {
+    height: 750px;
+    background-color: rgba(43, 42, 42, 0.7);
+}
+
+.header-text {
+    width: 60%;
+    text-align: center;
+    margin: auto auto;
+    padding-top: 110px;
+}
+
+.header h1 {
+    font-size: 70px;
+    font-weight: 700;
+    color: white;
+}
+
+.header p {
+    font-size: 16px;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.donate-link {
+    text-decoration: none;
+    font-size: 20px;
+    background-color: rgb(210, 128, 20);
+    padding: 12px 18px;
+    border-radius: 5px;
+    color: white;
+    margin: 15px;
+}
+
+.donate-today {
+    background-color: white;
+    height: 750px;
+}
+
+.donate {
+    width: 60%;
+    height: 100%;
+    padding-top: 100px;
+    margin: auto;
+    text-align: center;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 18px;
+    color: rgb(128, 126, 126);
+}
+
+.donate-taka {
+    width: 100%;
+    height: 150px;
+    padding-top: 60px;
+}
+
+.donate span {
+    padding: 30px;
+    background-color: #fef8f8;
+    font-size: 35px;
+    margin: 10px;
+    color: #635e5e;
+}
+
+.span-2 {
+    border: 3px solid rgb(210, 128, 20);
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.amount-ankor {
+    text-decoration: none;
+    font-size: 18px;
+    color: #8f8a8a;
+    margin-bottom: 10px;
+}
+
+.donate hr {
+    padding-top: 25px;
+    color: wheat;
+    border: none;
+    border-top: 1px solid rgb(164, 163, 163);
+}
+
+.donate-plan {
+    width: 90%;
+    margin: auto;
+}
+
+.donate-plan-main-content {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.donate-plan-system {
+    height: 350px;
+    display: flex;
+    padding: 50px;
+}
+
+.donate-plan-text-content {
+    width: 30%;
+    margin-left: 3.33%;
+    padding: 40px 15px;
+    border-radius: 5px;
+}
+
+.donate-plan-text-content h4 {
+    font-size: 25px;
+}
+
+.donate-plan-system .div-1 {
+    background-color: rgb(237, 243, 245);
+}
+
+.donate-plan-system .div-2 {
+    background-color: rgb(234, 223, 234);
+}
+
+.donate-plan-system .div-3 {
+    background-color: rgb(255, 234, 206);
+}
+
+.contribute {
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+
+.contribute-text {
+    width: 40%;
+    margin-left: 5%;
+    padding-top: 50px;
+}
+
+.contribute-text img {
+    width: 500px;
+    height: 500px;
+    border-radius: 5px;
+}
+
+.contribute-text p {
+    margin-bottom: 40px;
+}
+
+.contribute-ankore {
+    text-decoration: none;
+    font-size: 20px;
+    background-color: rgb(210, 128, 20);
+    padding: 12px 18px;
+    border-radius: 5px;
+    color: white;
+}
+
+.need-us {
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+
+.need-us-text {
+    width: 40%;
+    margin-left: 5%;
+    padding-top: 50px;
+}
+
+.need-us-text img {
+    width: 480px;
+    height: 500px;
+    border-radius: 5px;
+}
+
+.need-us-text p {
+    margin-bottom: 40px;
+}
+
+.abdete-section {
+    height: 550px;
+}
+
+.aboute-us {
+    height: 550px;
+    width: 100%;
+    margin-top: 50px;
+    background-color: #f6f8f1;
+    display: flex;
+}
+
+.aboute-text {
+    width: 33.33%;
+    padding: 30px 115px;
+}
+
+.aboute-text h3 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.aboute-text h4 {
+    font-size: 25px;
+}
+
+.aboute-text .span-20 {
+    color: rgb(255, 174, 0);
+    font-size: 40px;
+}
+
+.aboute-text .span-1 {
+    padding: 1px 20px;
+    background-color: gold;
+}
+
+.aboute-images img {
+    width: 130px;
+    height: 130px;
+    margin-left: 5px 5px;
+}
+
+.aboute-text .quik-links {
+    list-style: none;
+}
+
+.quik-links li {
+    margin: 10px 20px;
+}
+
+.quik-links li a {
+    text-decoration: none;
+    color: #000;
+    font-size: 18px;
+}
+
+.form-content {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.form-input {
+    height: 150px;
+    width: 100%;
+    background-color: rgb(206, 199, 188);
+    padding: 20px 40px;
+}
+
+.form-input form .input-1 {
+    padding: 15px 40px;
+    font-size: 15px;
+    background-color: rgb(237, 243, 245);
+    border-radius: 5px 0 0 5px;
+    border: none;
+    outline: none;
+    margin-top: 50px;
+    margin-right: -10px;
+}
+
+.form-input form .input-2 {
+    padding: 15px 30px;
+    font-size: 15px;
+    background-color: rgb(210, 128, 20);
+    color: wheat;
+    border: none;
+    border-radius: 0 5px 5px 0;
+}
+
+.footer-content {
+    height: 200px;
+    background-color: #434141;
+    text-align: center;
+}
+
+.footer-content h5 {
+    font-size: 35px;
+    color: red;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Merriweather', serif;
+    font-family: 'Splash', cursive;
+    padding-top: 40px;
+}
+
+.footer-content p {
+    font-size: 14px;
+    margin-top: -20px;
+    color: #d2caca;
+}
